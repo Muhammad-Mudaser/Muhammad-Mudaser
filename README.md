@@ -13,11 +13,76 @@ I'm a passionate and results-driven Data Analyst with a strong foundation in tra
 - **Concepts:** Data Cleaning, EDA, Statistical Analysis, Dashboard Design, Predictive Modeling
 
 ---
-## Languages and Tools:
+## Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,python,django,docker,flask,git,github,postgres,redis,mysql,linux,kubernetes,apache,kafka,tensorflow,pytorch&perline=12" />
+
+<a href="https://docs.aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/>
+</a>
+<a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash" width="40"/>
+</a>
+<a href="https://docs.python.org/3/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" width="40"/>
+</a>
+<a href="https://docs.djangoproject.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django" width="40"/>
+</a>
+<a href="https://docs.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/>
+</a>
+<a href="https://www.elastic.co/guide/index.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=elasticsearch" width="40"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" width="40"/>
+</a>
+<a href="https://git-scm.com/doc" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+</a>
+<a href="https://go.dev/doc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=go" width="40"/>
+</a>
+<a href="https://grafana.com/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=grafana" width="40"/>
+</a>
+
+<br/>
+
+<a href="https://hadoop.apache.org/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=hadoop" width="40"/>
+</a>
+<a href="https://cwiki.apache.org/confluence/display/Hive" target="_blank">
+  <img src="https://skillicons.dev/icons?i=hive" width="40"/>
+</a>
+<a href="https://huggingface.co/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=huggingface" width="40"/>
+</a>
+<a href="https://kafka.apache.org/documentation/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kafka" width="40"/>
+</a>
+<a href="https://kubernetes.io/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40"/>
+</a>
+<a href="https://docs.kernel.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" width="40"/>
+</a>
+<a href="https://dev.mysql.com/doc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+</a>
+<a href="https://www.postgresql.org/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" width="40"/>
+</a>
+<a href="https://redis.io/docs/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redis" width="40"/>
+</a>
+<a href="https://scikit-learn.org/stable/documentation.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40"/>
+</a>
+
 </p>
+
 
 
 
