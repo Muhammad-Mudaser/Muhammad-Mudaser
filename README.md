@@ -13,29 +13,25 @@ I'm a passionate and results-driven Data Analyst with a strong foundation in tra
 - **Concepts:** Data Cleaning, EDA, Statistical Analysis, Dashboard Design, Predictive Modeling
 
 ---
-## Languages & Tools
+## Languages and Tools:
 
-<div align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="path/to/aws.png" alt="AWS" width="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="path/to/docker.png" alt="Docker" width="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="path/to/python.png" alt="Python" width="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="path/to/django.png" alt="Django" width="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="path/to/flask.png" alt="Flask" width="40"/>
-  </a>
-  <!-- aur baki images bhi isi tarah -->
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
+</p>
 
 
-
+---
 ### 📂 **Featured Projects**
 1.  **E-Commerce Sales Dashboard** - [View Repository](link)
     - Developed an interactive Power BI dashboard to analyze sales performance and customer behavior.
